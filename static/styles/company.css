@@ -1,0 +1,29 @@
+.colo-text h3 {
+    padding: 15px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.company-text>p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.colo-text {
+    margin: 20px;
+    text-align: justify;
+}
+
+.company-img img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.colo-comp {
+    display: flex;
+    margin: 50px;
+    padding-inline: 50px;
+}

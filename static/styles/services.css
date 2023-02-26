@@ -1,0 +1,58 @@
+h3 {
+    padding-top: 18px;
+}
+
+.col-text {
+    padding: 15px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 230px;
+    padding-right: 230px;
+    text-align: justify;
+    }
+
+.col-text p {
+    padding-top: 20px;
+}
+
+.col-text h3 {
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.symbol {
+    font-size: 40px;
+}
+
+.col .galka {
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.col {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.col p {
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+@media (min-width: 360px) and (max-width: 1000px) {
+    .col-text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .col-text>h3 {
+       text-align: center;
+    }
+}
